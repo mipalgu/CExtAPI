@@ -1,0 +1,5 @@
+module CV_REF [system] {
+  header "/usr/include/CV_REF.h"
+  link "CV_REF"
+  export *
+}
