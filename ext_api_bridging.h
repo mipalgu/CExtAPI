@@ -1,3 +1,3 @@
 #define	MAX_EXT_API_CONNECTIONS	255
 #define	NON_MATLAB_PARSING
-#include <remoteApi/extApi.h>
+#include <ExtAPI/extApi.h>
