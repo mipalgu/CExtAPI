@@ -1,5 +1,5 @@
-module CV_REF [system] {
-  header "/usr/include/CV_REF.h"
-  link "CV_REF"
+module CExtAPI [system] {
+  header "ext_api_bridging.h"
+  link "ExtAPI"
   export *
 }
